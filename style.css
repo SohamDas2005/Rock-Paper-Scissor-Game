@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(25,25,25);
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.move-icon{
+    height: 70px;
+}
+.move-button{
+    background-color: transparent;
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.result{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 50px;
+}
